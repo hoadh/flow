@@ -1,3 +1,7 @@
+### 0.98.2
+
+Test change log
+
 ### 0.98.1
 
 Notable bug fixes:
